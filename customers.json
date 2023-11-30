@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "kenneth Haggin",
+        "phone": "215-343-555",
+        "company": "Haggins Gallery"
+    },
+    {
+        "id": 2,
+        "name": "Badmus Benson",
+        "phone": "111-223-535",
+        "company": "Benson Couture"
+    },
+    {
+        "id": 3,
+        "name": "Adams kenny",
+        "phone": "222-333-555",
+        "company": "Kenny Arts"
+    },
+    {
+        "id": 4,
+        "name": "Adams Taiwo",
+        "phone": "222-444-555",
+        "company": "Adams Restaurant"
+    }
+]
